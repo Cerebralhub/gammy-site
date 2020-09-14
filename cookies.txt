@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.qodeinteractive.com	TRUE	/	FALSE	1999999999	__cfduid	dfcb968105d2d324b0e3d5d327d0d18341598780680
+pelicula.qodeinteractive.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+pelicula.qodeinteractive.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+pelicula.qodeinteractive.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_6c7fd84ef1321113a2b1c7d9e6a56f62	a8345e5e14f8fa86f97d7a7ba0d3e2a5%7C%7C1598954243%7C%7C1598950643%7C%7C3c3dd12f0b568ee4fb1818059c48848d
+pelicula.qodeinteractive.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	3b67a8706646e9a5db078ee521a35c6c
+
